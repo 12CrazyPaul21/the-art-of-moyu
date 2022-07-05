@@ -9,3 +9,6 @@
 6. 摸鱼的风险
 7. to be continue（请手动播放Yes - Roundabout）...
 
+## 文档许可证
+
+[![cc-nc-sa](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
